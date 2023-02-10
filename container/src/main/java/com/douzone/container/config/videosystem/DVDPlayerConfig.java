@@ -41,6 +41,4 @@ public class DVDPlayerConfig {
 		
 		return dvdPlayer;
 	}
-	
-	
 }

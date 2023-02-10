@@ -1,13 +1,3 @@
-   src
-	|-- main
-		  |-- java
-				|-- 
-				|        |-- 
-		  |-- resources
-				|-- 
-						|-- 
-
-
 [src/main/java]
 	com.douzone.container.user
 		|-- User.java
@@ -18,13 +8,14 @@
 	com.douzone.container.videosystem
 		|--- DVDPlayer.java
 		|--- DigitalVideoDisc.java
-		|--- 
+		|--- Avengers 
 	com.douzone.container.config.user
 		|--- AppConfig.java	
 	com.douzone.container.config.soundsystem
 		|--- CDPlayerConfig.java
 	com.douzone.container.config.videosystem
-		|--- DVDPlayerConfig.java **
+		|--- DVDPlayerConfig.java ***
+
 
 [src/main/resources]
 	com.douzone.container.config.user
@@ -40,3 +31,4 @@
 		|--- CDPlayerJavaConfigTest.java
      com.douzone.container.videosystem
 		|--- DVDPlayerJavaConfigTest.java
+		
